@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "Chalet-Cafe",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -58,7 +58,7 @@
     "lucide-react": "^0.454.0",
     "mongodb": "^6.16.0",
     "mongoose": "^8.15.0",
-    "next": "15.2.4",
+    "next": "16.1.6",
     "next-auth": "latest",
     "next-themes": "^0.4.4",
     "nodemailer": "^7.0.3",
